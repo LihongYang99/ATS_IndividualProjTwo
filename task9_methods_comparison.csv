@@ -1,0 +1,5 @@
+Method,Sample Size,Std Dev,Mean,Sig ACF Lags,LB p-value,White Noise?
+Task 7: Diff(lag=12),454,0.6343,0.001366,11,0.0000,No
+Task 6: Regression (Annual),466,0.7557,0.000000,47,0.0000,No
+"Task 9: Diff(lag=6,12)",448,0.9189,0.002612,21,0.0000,No
+Task 8: Regression (Ann+Semi),466,0.5250,0.000000,16,0.0000,No
